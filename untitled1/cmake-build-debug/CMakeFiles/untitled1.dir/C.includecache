@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cadex/CLionProjects/untitled1/main.c
+ctype.h
+-
+stdio.h
+-
+stdlib.h
+-
+termios.h
+-
+unistd.h
+-
+

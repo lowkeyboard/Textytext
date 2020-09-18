@@ -1,0 +1,22 @@
+/// to reset back terminal /////
+
+After the program quits, depending on your shell, you may find your terminal is still not echoing what you type. 
+Don’t worry, it will still listen to what you type. 
+Just press Ctrl-C to start a fresh line of input to your shell, and type in reset and press Enter. 
+This resets your terminal back to normal in most cases.
+ Failing that, you can always restart your terminal emulator.
+  We’ll fix this whole problem in the next step.
+
+//control characters//
+Control characters are nonprintable characters 
+that we don’t want to print to the screen. 
+0-31 also 127
+
+By the way, if you happen to press Ctrl-S,
+ you may find your program seems to be frozen. 
+ What you’ve done is you’ve asked your program 
+ to stop sending you output. Press Ctrl-Q to tell it to
+  resume sending you output.
+
+
+
