@@ -1,3 +1,3 @@
 # Textytext run :
-  open terminal
+ open terminal
   ./main
